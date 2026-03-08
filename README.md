@@ -1,16 +1,209 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mukilanchitrakumar/mukilanchitrakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:00ff88&height=250&section=header&text=MUKILAN%20CHITRAKUMAR&fontSize=52&fontColor=00ff88&fontAlignY=42&stroke=00ff88&strokeWidth=1&desc=⚡%20ECE%20Engineer%20%7C%20AI%20Developer%20%7C%20IoT%20Architect%20⚡&descAlignY=62&descSize=15&animation=twinkling" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...;%3E+Loading+Mukilan.exe...;%3E+AI+Developer+%7C+IoT+Engineer+%7C+ECE+Student;%3E+Building+the+future%2C+one+circuit+at+a+time;%3E+Always+learning.+Always+building.+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/◈_mukilan258%40gmail.com-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d0221)](mailto:mukilan258@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/◈_Coimbatore,_TN-0d0221?style=for-the-badge&logo=googlemaps&logoColor=00ff88&labelColor=0d0221)](#)&nbsp;
+[![Phone](https://img.shields.io/badge/◈_+91_9363660289-0d0221?style=for-the-badge&logo=phone&logoColor=00ff88&labelColor=0d0221)](tel:+919363660289)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> ABOUT_ME.exe`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   NAME     →  Mukilan Chitrakumar                                ║
+║   ROLE     →  Electronics & Communication Engineering Student    ║
+║   COLLEGE  →  SNS College of Engineering  [2023–2027]            ║
+║   CGPA     →  8.85 / 10.0  ████████░░  88%                       ║
+║   LOCATION →  Peelamedu, Coimbatore, Tamil Nadu                  ║
+║   FOCUS    →  AI · IoT · Embedded Systems · Innovation           ║
+║   STATUS   →  [ ● OPEN TO OPPORTUNITIES ]                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> SKILLS_MATRIX.sys`
+
+<div align="center">
+
+### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=00ff88)
+![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00ff88)
+![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=mysql&logoColor=00ff88)
+
+### 🛠 Tools & Platforms
+![M365](https://img.shields.io/badge/Microsoft_365-0d0221?style=for-the-badge&logo=microsoft&logoColor=00ff88)
+![Tableau](https://img.shields.io/badge/Tableau-0d0221?style=for-the-badge&logo=tableau&logoColor=00ff88)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0d0221?style=for-the-badge&logo=flutter&logoColor=00ff88)
+![N8N](https://img.shields.io/badge/N8N_Automation-0d0221?style=for-the-badge&logo=n8n&logoColor=00ff88)
+![Canva](https://img.shields.io/badge/Canva-0d0221?style=for-the-badge&logo=canva&logoColor=00ff88)
+
+</div>
+
+```
+SKILL LEVELS ──────────────────────────────────────────────────────
+
+  Python      ████████████████████░░  90%   ██ ADVANCED
+  C / C++     ███████████████░░░░░░░  75%   ██ PROFICIENT
+  SQL         ██████████████░░░░░░░░  70%   ██ PROFICIENT
+  IoT / HW    ████████████████░░░░░░  80%   ██ ADVANCED
+  AI / ML     ███████████████░░░░░░░  75%   ██ PROFICIENT
+
+───────────────────────────────────────────────────────────────────
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> PROJECTS_LOG.db`
+
+<details>
+<summary><b>⚡ [ PROJECT_01 ] — Advanced IoT-Based Solar Tracking System</b></summary>
+<br/>
+
+```yaml
+PROJECT     : Advanced IoT-Based Solar Tracking System
+DOMAIN      : IoT · Embedded Systems · Renewable Energy
+HARDWARE    : Microcontroller + Environmental Sensors
+ALGORITHM   : Real-time Adaptive Positioning Engine
+
+DESCRIPTION :
+  → Engineered an IoT-based solar tracking system for maximum energy yield
+  → Real-time adaptive algorithms dynamically optimize panel positioning
+  → Environmental data-driven precision solar alignment
+  → Microcontroller-powered for lightweight, reliable deployment
+
+IMPACT      : Maximized solar energy efficiency through intelligent tracking
+```
+
+</details>
+
+<details>
+<summary><b>🚗 [ PROJECT_02 ] — V2V Communication Framework for Road Safety</b></summary>
+<br/>
+
+```yaml
+PROJECT     : Advanced V2V Communication Framework
+DOMAIN      : Cloud Computing · Edge Systems · IoT · Road Safety
+STACK       : Cloud Integration · Edge Messaging Protocols
+
+DESCRIPTION :
+  → Architected a cloud-integrated V2V communication framework
+  → Low-latency real-time data exchange between vehicles
+  → Edge cloud messaging protocols for instant alerting
+  → Event-driven intelligent road safety system
+
+IMPACT      : Smart alerting for connected vehicle road safety ecosystems
+```
+
+</details>
+
+<details>
+<summary><b>🤖 [ INTERNSHIP ] — AI Chatbot @ Botroid Tech</b></summary>
+<br/>
+
+```yaml
+COMPANY     : Botroid Tech
+ROLE        : Artificial Intelligence Intern
+STACK       : Python · JSON · HTML · CSS · NLP
+
+DESCRIPTION :
+  → Practical experience in AI, NLP, and system integration
+  → Developed a full AI chatbot — backend logic in Python + JSON
+  → Built responsive front-end with HTML & CSS for real-time chat
+  → Deepened understanding of intelligent system architecture
+
+OUTCOME     : Shipped a production-ready real-time AI chatbot
+```
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> ACHIEVEMENTS_VAULT.enc`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🏆 UNLOCKED ACHIEVEMENTS                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [★] Global Open Innovation Challenge  — CMR University 2025     ║
+║  [★] Spirit of Innovation Award        — CMR University 2025     ║
+║  [✦] Research Published in IJSDR       — Vol.9, Issue 5, 2024    ║
+║      "Vulnerability Analysis in IoT Devices"                     ║
+║  [✦] Python Programming Certification  — GUVI × Google           ║
+║  [✦] PCB Design & Fabrication          — Pebbles Electronics     ║
+║  [✦] Copilot Security Ninja Training   — Microsoft               ║
+║  [✦] Robotic Process Automation        — IBM                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> GITHUB_STATS.live`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukilanchitrakumar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=00ff88"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanchitrakumar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0221&title_color=00ff88&text_color=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukilanchitrakumar&theme=chartreuse-dark&hide_border=true&background=0d0221&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukilanchitrakumar&theme=react-dark&bg_color=0d0221&color=00ff88&line=00ff88&point=ffffff&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukilanchitrakumar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `> CONNECT.link`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/mukilan-chitrakumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/mukilanchitrakumar)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:mukilan258@gmail.com)
+
+<br/>
+
+```
+> "Always eager to take on challenges that push boundaries
+   and drive meaningful impact."
+                                        — Mukilan Chitrakumar
+```
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mukilanchitrakumar&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d0221)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:0a0a2e,100:000000&height=120&section=footer&animation=twinkling" />
