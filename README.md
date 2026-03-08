@@ -38,40 +38,30 @@
 
 ## `> SKILLS_MATRIX.sys`
 
-<br/>
+<br clear="both">
 
-**⚡ Programming Languages**
+<img align="right" height="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<br/>
+**⚡ Languages**
 
-![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00ff88)
-![C](https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=00ff88)
-![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=00ff88)
-![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=mysql&logoColor=00ff88)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql&theme=dark" />
 
 <br/>
 
 **🛠 Tools & Platforms**
 
-<br/>
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0d0221?style=for-the-badge&logo=microsoft&logoColor=00ff88)
-![Tableau](https://img.shields.io/badge/Tableau-0d0221?style=for-the-badge&logo=tableau&logoColor=00ff88)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0d0221?style=for-the-badge&logo=flutter&logoColor=00ff88)
-![N8N](https://img.shields.io/badge/N8N-0d0221?style=for-the-badge&logo=n8n&logoColor=00ff88)
-![Canva](https://img.shields.io/badge/Canva-0d0221?style=for-the-badge&logo=canva&logoColor=00ff88)
-![PicsArt](https://img.shields.io/badge/PicsArt-0d0221?style=for-the-badge&logo=picsart&logoColor=00ff88)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,flutter,canva&theme=dark" />
 
 <br/>
 
 **🧩 Soft Skills**
 
-<br/>
-
 ![Leadership](https://img.shields.io/badge/Leadership-0d0221?style=for-the-badge&logoColor=00ff88)
 ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-0d0221?style=for-the-badge&logoColor=00ff88)
 ![English](https://img.shields.io/badge/English-Fluent-0d0221?style=for-the-badge&logoColor=00ff88)
 ![Hindi](https://img.shields.io/badge/Hindi-Fluent-0d0221?style=for-the-badge&logoColor=00ff88)
+
+<br clear="both"/>
 
 <br/>
 
